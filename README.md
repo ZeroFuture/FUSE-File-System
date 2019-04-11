@@ -1,3 +1,7 @@
+# FUSE-File-System
+
+NEU CS5600 Computer System Course Project
+
 Assignment 4 – File System Implementation Page 1 of 8
 
 For this homework we are going to implement the fsx600 file system, a simple derivative of the Unix
