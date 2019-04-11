@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/assignment_4_master.dir/homework.c.o CMakeFiles/assignment_4_master.dir/image.c.o CMakeFiles/assignment_4_master.dir/misc.c.o  -o assignment_4_master 

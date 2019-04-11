@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/assignment_4.dir/homework.c.o CMakeFiles/assignment_4.dir/image.c.o CMakeFiles/assignment_4.dir/misc.c.o  -o assignment_4 /usr/local/lib/libosxfuse_i64.dylib 
